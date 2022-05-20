@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = AT1__PerfectPolicy_
+build_property.ProjectDir = D:\TAFE\Term2\ICTPRG532 - VisStud\PerfectPolicies\PPBackEnd2022-master (1)\PPBackEnd2022-master\AT1 (PerfectPolicy)\

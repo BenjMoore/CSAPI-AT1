@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AT1 (PerfectPolicy)</name>
+    </assembly>
+    <members>
+        <member name="M:AT1__PerfectPolicy_.Controllers.OptionController.OptionsForQuestionID(System.Int32)">
+            <summary>
+            Get all options for a given QuestionID
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AT1__PerfectPolicy_.Controllers.QuestionController.Get">
+            <summary>
+            A full list of all created questions
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AT1__PerfectPolicy_.Controllers.QuestionController.QuestionsForQuizTitle(System.Int32)">
+            <summary>
+            Get all Questions for a given QuizID
+            </summary>
+            <param name="id">Quiz ID</param>
+            <returns>A list of questions that relate to the provided Quiz ID</returns>
+        </member>
+        <member name="M:AT1__PerfectPolicy_.Controllers.ReportController.QuizQuestionCountReport(System.Nullable{System.DateTime},System.Nullable{System.DateTime})">
+            <summary>
+            Gathers all questions connected to a quiz
+            </summary>
+            <param name="from"></param>
+            <param name="to"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
