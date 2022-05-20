@@ -5688,23 +5688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Student\\.nuget\\packages\\": {},
+    "C:\\Users\\Benjamin Moore\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TAFE\\Term2\\ICTPRG532 - VisStud\\PerfectPolicies\\PPBackEnd2022-master (1)\\PPBackEnd2022-master\\AT1 (PerfectPolicy)\\AT1 (PerfectPolicy).csproj",
+      "projectUniqueName": "D:\\Github\\c\\CSAPI-AT1\\AT1 (PerfectPolicy)\\AT1 (PerfectPolicy).csproj",
       "projectName": "AT1 (PerfectPolicy)",
-      "projectPath": "D:\\TAFE\\Term2\\ICTPRG532 - VisStud\\PerfectPolicies\\PPBackEnd2022-master (1)\\PPBackEnd2022-master\\AT1 (PerfectPolicy)\\AT1 (PerfectPolicy).csproj",
-      "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "D:\\TAFE\\Term2\\ICTPRG532 - VisStud\\PerfectPolicies\\PPBackEnd2022-master (1)\\PPBackEnd2022-master\\AT1 (PerfectPolicy)\\obj\\",
+      "projectPath": "D:\\Github\\c\\CSAPI-AT1\\AT1 (PerfectPolicy)\\AT1 (PerfectPolicy).csproj",
+      "packagesPath": "C:\\Users\\Benjamin Moore\\.nuget\\packages\\",
+      "outputPath": "D:\\Github\\c\\CSAPI-AT1\\AT1 (PerfectPolicy)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Benjamin Moore\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5776,7 +5776,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
