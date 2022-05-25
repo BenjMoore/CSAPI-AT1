@@ -9,8 +9,7 @@ namespace AT1__PerfectPolicy_.Models
     {
         public int OptionID { get; set; }
         public string OptionText { get; set; }
-        public string OptionOrderByLetter { get; set; }
-        public string OptionOrderByNumber { get; set; }
+       
         public string Answer { get; set; }
 
         public int QuestionID { get; set; }

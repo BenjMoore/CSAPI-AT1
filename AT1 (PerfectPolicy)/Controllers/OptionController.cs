@@ -61,8 +61,6 @@ namespace AT1__PerfectPolicy_.Controllers
         Option newOption = new Option()
         {
             OptionText = option.OptionText,
-            OptionOrderByLetter = option.OptionOrderByLetter,
-            OptionOrderByNumber = option.OptionOrderByNumber,
             Answer = option.Answer,
             QuestionID = option.QuestionID
         };
