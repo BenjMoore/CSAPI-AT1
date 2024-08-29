@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AT1 (PerfectPolicy)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9223f1385e3d59a2a8d31d877bdef7df7719473")]
 [assembly: System.Reflection.AssemblyProductAttribute("AT1 (PerfectPolicy)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AT1 (PerfectPolicy)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

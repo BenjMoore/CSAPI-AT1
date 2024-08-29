@@ -202,3 +202,75 @@ D:\Github\c\CSAPI-AT1\AT1 (PerfectPolicy)\obj\Debug\net5.0\AT1 (PerfectPolicy).d
 D:\Github\c\CSAPI-AT1\AT1 (PerfectPolicy)\obj\Debug\net5.0\ref\AT1 (PerfectPolicy).dll
 D:\Github\c\CSAPI-AT1\AT1 (PerfectPolicy)\obj\Debug\net5.0\AT1 (PerfectPolicy).pdb
 D:\Github\c\CSAPI-AT1\AT1 (PerfectPolicy)\obj\Debug\net5.0\AT1 (PerfectPolicy).genruntimeconfig.cache
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\appsettings.Development.json
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\appsettings.json
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\AT1 (PerfectPolicy).StaticWebAssets.xml
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\AT1 (PerfectPolicy).exe
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\AT1 (PerfectPolicy).deps.json
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\AT1 (PerfectPolicy).runtimeconfig.json
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\AT1 (PerfectPolicy).runtimeconfig.dev.json
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\AT1 (PerfectPolicy).dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\AT1 (PerfectPolicy).pdb
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\AT1 (PerfectPolicy).xml
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\Humanizer.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\obj\Debug\net5.0\AT1 (PerfectPolicy).csproj.AssemblyReference.cache
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\obj\Debug\net5.0\AT1 (PerfectPolicy).GeneratedMSBuildEditorConfig.editorconfig
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\obj\Debug\net5.0\AT1 (PerfectPolicy).AssemblyInfoInputs.cache
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\obj\Debug\net5.0\AT1 (PerfectPolicy).AssemblyInfo.cs
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\obj\Debug\net5.0\AT1 (PerfectPolicy).csproj.CoreCompileInputs.cache
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\obj\Debug\net5.0\AT1 (PerfectPolicy).MvcApplicationPartsAssemblyInfo.cs
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\obj\Debug\net5.0\AT1 (PerfectPolicy).MvcApplicationPartsAssemblyInfo.cache
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\obj\Debug\net5.0\AT1 (PerfectPolicy).sourcelink.json
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\obj\Debug\net5.0\AT1 (PerfectPolicy).RazorTargetAssemblyInfo.cache
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\obj\Debug\net5.0\scopedcss\bundle\AT1 (PerfectPolicy).styles.css
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\obj\Debug\net5.0\staticwebassets\AT1 (PerfectPolicy).StaticWebAssets.Manifest.cache
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\obj\Debug\net5.0\staticwebassets\AT1 (PerfectPolicy).StaticWebAssets.Pack.cache
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\obj\Debug\net5.0\staticwebassets\msbuild.AT1 (PerfectPolicy).Microsoft.AspNetCore.StaticWebAssets.props
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\obj\Debug\net5.0\staticwebassets\msbuild.build.AT1 (PerfectPolicy).props
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.AT1 (PerfectPolicy).props
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.AT1 (PerfectPolicy).props
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\obj\Debug\net5.0\AT1 (Per.7B10DEF2.Up2Date
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\obj\Debug\net5.0\AT1 (PerfectPolicy).dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\obj\Debug\net5.0\refint\AT1 (PerfectPolicy).dll
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\obj\Debug\net5.0\AT1 (PerfectPolicy).pdb
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\obj\Debug\net5.0\AT1 (PerfectPolicy).genruntimeconfig.cache
+E:\OLD WINDOWS\Git Repos\CSAPI-AT1\AT1 (PerfectPolicy)\obj\Debug\net5.0\ref\AT1 (PerfectPolicy).dll
